@@ -1,6 +1,4 @@
 # Two Layer Neural Network from Scratch Vs Pytorch
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](LICENSE.md)
----
 
 
 ### Description
