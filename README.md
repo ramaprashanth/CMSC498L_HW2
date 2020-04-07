@@ -1,5 +1,4 @@
 # Two Layer Neural Network from Scratch Vs Pytorch
----
 
 ### Description
 A two-layer neural network for image and text classification. The neural network is built using numpy library where the image is flattened to form the input layer and the hidden layer has 14 neurons and the output layer has one neuron predicting the input image.
